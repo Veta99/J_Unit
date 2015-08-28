@@ -2,7 +2,7 @@ package core;
 
 public class App {
 	public static String s = "Hello Alex!";
-	public static Integer iw = 1995;
+	public static Integer iw = -128;
 	public static Boolean tw = true;
 	public static Boolean fw = false;
 	
